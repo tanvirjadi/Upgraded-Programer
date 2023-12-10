@@ -1,0 +1,53 @@
+@media (max-width:768px) {
+    .main-banner {
+        text-align: center;
+    }
+
+    .services .container .row img {
+        margin-top: 100px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    .testimonials-col img {
+        margin-left: 0;
+        margin-right: 15px;
+    }
+
+    .aboutus {
+        margin-top: 200px;
+        margin-bottom: 0;
+        margin-right: 0;
+    }
+
+    .header {
+        width: 100%;
+    }
+
+    .hamdard .university-pic img {
+        height: 350px;
+        margin-left: 5px;
+        margin-top: 50px;
+    }
+}
+@media (max-width:1084px) {
+    .row1 {
+        flex-direction: column;
+    }
+
+    .aboutus {
+        margin-top: 200px;
+        margin-bottom: 0;
+    }
+
+    .header {
+        width: 100%;
+    }
+
+    .hamdard .university-pic img {
+        height: 400px;
+        margin-left: 5px;
+    }
+}
